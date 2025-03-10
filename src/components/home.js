@@ -26,7 +26,7 @@ export default function HomePage() {
         <section className="w-full max-w-4xl bg-white shadow-lg rounded-2xl p-6">
           <h2 className="text-2xl font-semibold text-gray-800 text-center">About Me</h2>
           <p className="text-gray-600 mt-2">
-          Hello! I'm <span className="font-semibold text-blue-800">P Durgaprasad</span>, a passionate and driven software developer with a strong foundation in full-stack web development. I specialize in building modern web applications using the latest technologies like React, Node.js, and more. My goal is to create user-friendly, scalable, and responsive web applications that solve real-world problems.
+          Hello! I'm <span className="font-semibold text-blue-800">Pentaboina Durgaprasad</span>, a passionate and driven software developer with a strong foundation in full-stack web development. I specialize in building modern web applications using the latest technologies like React, Node.js, and more. My goal is to create user-friendly, scalable, and responsive web applications that solve real-world problems.
 
             I am a passionate developer with experience in modern web technologies. I love building
             responsive and user-friendly applications.
